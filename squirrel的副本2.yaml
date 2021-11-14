@@ -354,7 +354,8 @@ app_options:
   com.github.atom:
     ascii_mode: true
   com.microsoft.VSCode:
-    ascii_mode: true
+    ascii_mode: false
+    vim_mode: true    # 退出VIM插入模式自動切換輸入法狀態
   com.sublimetext.2:
     ascii_mode: true
   org.gnu.Aquamacs:

@@ -1,7 +1,7 @@
 __build_info:
   rime_version: 1.7.3
   timestamps:
-    squirrel: 1635607442
+    squirrel: 1636889193
     squirrel.custom: 1616736026
 app_options:
   co.zeit.hyper:
@@ -28,7 +28,8 @@ app_options:
   com.macromates.TextMate.preview:
     ascii_mode: true
   com.microsoft.VSCode:
-    ascii_mode: true
+    ascii_mode: false
+    vim_mode: true
   "com.runningwithcrayons.Alfred-2":
     ascii_mode: true
   com.sublimetext.2:
